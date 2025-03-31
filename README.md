@@ -28,10 +28,6 @@ Este é um projeto acadêmico que implementa uma versão simplificada do jogo Pa
 - Python 3.x
 - Biblioteca Pygame
 
-## Captura de Tela
-
-![Pac-Man](caminho/para/imagem.png)
-
 ## Observações
 
 ⚠️ **Este projeto está em desenvolvimento (Work in Progress).** Algumas funcionalidades ainda estão sendo aprimoradas.
